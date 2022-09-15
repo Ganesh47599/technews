@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "url":"https://tse3.mm.bing.net/th?id=OIP.5isvd83HGoWhRhp_RC92fQHaLr&pid=Api&P=0",
+        "name":"iphone ",
+        "model":"iphone 13 pro max",
+        "processor":"some",
+        "price":"1,00,000",
+"full":"Super Retina XDR display with ProMotion. 5G Superfast downloads, high?quality streaming Cinematic mode in 1080p at 30 fps. Dolby Vision HDR video recording up to 4K at 60 fps. 6X Optical zoom range A15 Bionic chip. New 6-core CPU with 2 performance and 4 efficiency cores. New 5-core GPU. New 16-core Neural Engine Up to 28 hours video playback. Face ID. Ceramic Shield front. Surgical-grade stainless steel Water resistant to a depth of 6 meters for up to 30 minutes. Compatible with MagSafe accessories and wireless chargers"
+    },
+    {
+        "id":2,
+    "url":"https://cdn.shopify.com/s/files/1/0586/3270/0077/files/12Image_1280x1020_a11e1bb0-7ace-47b6-a8ad-ae34c33c5314_1901x.png?v=1658151576",
+"name":"Nothing",
+"model":"Nothing phone1",
+"processor":"780 snapdragon",
+"Battery":"4500mAh lithium Battery",
+"price":"30000"   ,
+"full":"8 GB RAM | 256 GB ROM 16.64 cm (6.55 inch) Full HD+ Display 50MP + 50MP | 16MP Front Camera 4500 mAh Lithium-ion Battery Qualcomm Snapdragon 778G+ Processor Meet the Glyph Interface. A New Way to Communicate 1 Billion Colours, True-to-Life Full HD Flexible OLED Display with HDR10+ for Richer Colour and Deeper Contrasts."
+},
+{
+"id":3,
+    "url":"https://cdn.shopify.com/s/files/1/0586/3270/0077/files/12Image_1280x1020_a11e1bb0-7ace-47b6-a8ad-ae34c33c5314_1901x.png?v=1658151576",
+"name":"Nothing",
+"model":"Nothing phone1",
+"processor":"780",
+"price":"30000",
+"full":""
+    },{
+        "id":4,
+        "url":"https://image01.oneplus.net/ebp/202207/15/1-M00-3D-6C-rB8bwmLRCtmAZ4pUAAPJs9dLgbM138.png",
+        "name":"One Plus",
+        "model":"One plus 10T 5G",
+        "processor":"8+Gen 1 Snapdragon",
+        "Battery":"4800mAh 125W supervooc",
+        "price":"50,000",
+        "full":"8 GB RAM | 128 GB ROM 17.02 cm (6.7 inch) Display 50MP Rear Camera 4800 mAh Battery"
+    }
+]

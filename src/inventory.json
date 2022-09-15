@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "url":"https://tse3.mm.bing.net/th?id=OIP.w7cY5uBuTbYG5JCNfUq1qwHaHa&pid=Api&P=0",
+        "name":"iphone 13 pro max",
+        "quality":"Good for gaming and security"
+    },
+    {
+        "id":2,
+        "url":"https://cdn.shopify.com/s/files/1/0586/3270/0077/files/12Image_1280x1020_a11e1bb0-7ace-47b6-a8ad-ae34c33c5314_1901x.png?v=1658151576",
+        "name":"Nothing phone 1",
+        "quality":"not recommanded"
+    },
+    {
+        "id":3,
+        "url":"https://image01.oneplus.net/ebp/202207/15/1-M00-3D-6C-rB8bwmLRCtmAZ4pUAAPJs9dLgbM138.png",
+        "name":"One plus 10t",
+        "quality":"Good for gaming"
+    },
+    {
+        "id":4,
+        "url":"https://tse3.mm.bing.net/th?id=OIP.w7cY5uBuTbYG5JCNfUq1qwHaHa&pid=Api&P=0",
+        "name":"iphone 13 pro max",
+        "quality":"Good for gaming and security"
+    },
+    {
+        "id":5,
+        "url":"https://cdn.shopify.com/s/files/1/0586/3270/0077/files/12Image_1280x1020_a11e1bb0-7ace-47b6-a8ad-ae34c33c5314_1901x.png?v=1658151576",
+        "name":"Nothing phone 1",
+        "quality":"not recommanded"
+    },
+    {
+        "id":6,
+        "url":"https://image01.oneplus.net/ebp/202207/15/1-M00-3D-6C-rB8bwmLRCtmAZ4pUAAPJs9dLgbM138.png",
+        "name":"One plus 10t",
+        "quality":"Good for gaming"
+    }
+]
